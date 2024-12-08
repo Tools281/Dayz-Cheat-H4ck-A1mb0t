@@ -1,3 +1,5 @@
+![Preview Image](maxresdefault (1).jpg)
+
 DayZ Cheat C++
 This project is a c++ developed External cheat for the DayZ game. DayZ is a survival game with a zombie apocalypse, and this cheat aims to facilitate the fight for survival by giving players an advantage. The main features and usage of the project are described below.
 
